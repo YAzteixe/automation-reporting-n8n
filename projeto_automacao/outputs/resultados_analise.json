@@ -1,0 +1,110 @@
+{
+    "metricas_gerais": {
+        "total_vendas": "R$ 1,244,818.00",
+        "total_clientes": "6,133",
+        "taxa_churn": "9.6%",
+        "crescimento_periodo": "62.0%",
+        "lucro_total": "R$ 328,755.48",
+        "roi": "49.8%",
+        "ticket_medio_geral": "R$ 358.82"
+    },
+    "por_categoria": {
+        "Eletrônicos": {
+            "vendas": 383147,
+            "lucro": 101649.23,
+            "clientes_novos": 1246,
+            "churn": 123,
+            "margem": 26.530086363719406,
+            "taxa_churn": 9.871589085072232
+        },
+        "Beleza": {
+            "vendas": 224121,
+            "lucro": 54970.2,
+            "clientes_novos": 1221,
+            "churn": 114,
+            "margem": 24.52701888711901,
+            "taxa_churn": 9.336609336609335
+        },
+        "Vestuário": {
+            "vendas": 220740,
+            "lucro": 60815.44,
+            "clientes_novos": 1361,
+            "churn": 98,
+            "margem": 27.550711243997466,
+            "taxa_churn": 7.200587803085965
+        },
+        "Alimentos": {
+            "vendas": 208840,
+            "lucro": 56032.32,
+            "clientes_novos": 1261,
+            "churn": 125,
+            "margem": 26.830262401838727,
+            "taxa_churn": 9.912767644726408
+        },
+        "Livros": {
+            "vendas": 207970,
+            "lucro": 55288.29,
+            "clientes_novos": 1044,
+            "churn": 128,
+            "margem": 26.58474299177766,
+            "taxa_churn": 12.260536398467432
+        }
+    },
+    "categoria_top": "Eletrônicos",
+    "tendencias_mensais": [
+        {
+            "mes": "2024-01",
+            "vendas": 164831,
+            "clientes_novos": 1120,
+            "churn": 108,
+            "crescimento_mensal": NaN
+        },
+        {
+            "mes": "2024-02",
+            "vendas": 182546,
+            "clientes_novos": 954,
+            "churn": 77,
+            "crescimento_mensal": 10.747371550254513
+        },
+        {
+            "mes": "2024-03",
+            "vendas": 184275,
+            "clientes_novos": 965,
+            "churn": 101,
+            "crescimento_mensal": 0.9471585244267278
+        },
+        {
+            "mes": "2024-04",
+            "vendas": 206416,
+            "clientes_novos": 1017,
+            "churn": 111,
+            "crescimento_mensal": 12.015194681861342
+        },
+        {
+            "mes": "2024-05",
+            "vendas": 239656,
+            "clientes_novos": 1119,
+            "churn": 112,
+            "crescimento_mensal": 16.10340283698939
+        },
+        {
+            "mes": "2024-06",
+            "vendas": 267094,
+            "clientes_novos": 958,
+            "churn": 79,
+            "crescimento_mensal": 11.448910104483101
+        }
+    ],
+    "insights": [
+        "🏆 **Eletrônicos** lidera em vendas com maior faturamento",
+        "📈 **Crescimento forte** (>20%) no período",
+        "💰 **ROI excelente** (>40%) - investimentos eficientes"
+    ],
+    "alertas": [
+        "✅ Nenhum alerta crítico"
+    ],
+    "recomendacoes": [
+        "Expandir investimentos em Eletrônicos (categoria líder)"
+    ],
+    "timestamp": "2025-12-23 16:19:33"
+}
