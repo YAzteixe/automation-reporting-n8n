@@ -36,7 +36,7 @@ Este projeto está preparado para automação com [n8n](https://n8n.io/), uma pl
 
 ### 🛠️ Como Configurar o n8n
 
-#### Opção 1: n8n.cloud (Recomendado)
+#### Opção 1: n8n.cloud
 ```bash
 1. Acesse https://n8n.cloud
 2. Crie conta gratuita
